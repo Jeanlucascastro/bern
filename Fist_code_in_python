@@ -1,0 +1,10 @@
+valor_em_string1 = input ("entre a value")
+valor_em_string2 = input ("entre the second value")
+
+
+valorint1 = int(valor_em_string1)
+valorint2 = int(valor_em_string2)
+
+total = valorint1 + valorint2
+
+print(total)
